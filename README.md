@@ -1,10 +1,11 @@
 # Legacy System Converter
 
-Node.js baserat program som koverterar radbaserat filformat till XML.
+Node.js baserat program som konverterar radbaserat filformat till XML.
 
 # Krav
 
 Node.js installerat.
+
 Körning:
 ```node main.js <inputFile> <outputFile>```
 
